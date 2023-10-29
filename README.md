@@ -14,7 +14,7 @@ Bestada Test Nomer 2 (API)
   > Create Vehicle Number digunakan untuk menambahkan nomer kendaraan ke database.
     - Method : `POST`
     - Endpoint : `/api/vehicles`
-|Key|Type|Value|
+|Key     |  Type  |  Value |
 | ------ | ------ | ------ |
 |vehicle_number|string|Masukan nomer kendaraan|
 
